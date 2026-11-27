@@ -1,0 +1,24 @@
+
+CAFE NAPOLI - BUSINESS FACTS
+
+1. Business name: Cafe Napoli.
+2. Cafe Napoli is a cafe business.
+3. The cafe serves coffee and other beverages.
+4. The cafe offers desserts and cakes.
+5. The cafe offers pizza and Mexican-style food.
+6. Cappuccino is one of the menu items.
+7. Chocolate cake is one of the menu items.
+8. Cold coffee is one of the menu items.
+9. Tiramisu is one of the dessert options.
+10. Mexican pizza is one of the food options.
+11. The cafe has staff management and retention challenges.
+12. Staff work consistency needs improvement.
+13. Equipment and infrastructure issues are sometimes handled reactively.
+14. The cafe needs better equipment maintenance planning.
+15. The cafe needs improvement in marketing and online presence.
+16. Standard Operating Procedures (SOPs) are not yet properly available for the hot kitchen.
+17. The cafe needs standardized kitchen processes to improve consistency.
+18. AI automation could help with customer orders, staff operations, maintenance tracking, and marketing.
+
+Note: Menu items and prices used in the workshop prototype are sample data.
+They must be verified with Cafe Napoli before real customer use.
